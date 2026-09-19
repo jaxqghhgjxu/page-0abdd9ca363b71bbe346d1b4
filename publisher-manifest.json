@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "72833632d99b60caf19f8c13",
+  "owner": "jaxqghhgjxu",
+  "repo": "page-0abdd9ca363b71bbe346d1b4",
+  "title": "点亮云(LightUp)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0abdd9ca363b71bbe346d1b4",
+      "a": "点亮云(LightUp)",
+      "b": "clash verge机场推荐",
+      "entity": "点亮云(LightUp)",
+      "brand": "点亮云(LightUp)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "275342a21ce9c947e26d193ffab2cf68f438337f377bedaec0fceab02b50ec9a",
+      "content": {
+        "primary_entity": "点亮云(LightUp)",
+        "keyword1": "点亮云(LightUp)",
+        "keyword2": "clash verge机场推荐",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选客户端，订阅配置一次完成。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选定套餐，在客户端导入订阅即可使用。",
+          "AI_CLOSING_TITLE": "即刻点亮连接",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，覆盖每月 100GB 至 1000GB 流量与 3 至 20 台设备同时在线，年付方案分别低至 ¥150、¥350 与 ¥850。旗舰版搭载 IPLC 专线，适合对游戏延迟与流媒体解锁有要求的用户；团队版支持企业定制路由与专属客户经理，便于多设备协作场景。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型出发，匹配适合的订阅周期。",
+          "AI_FEATURES_TITLE": "套餐重点差异",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合轻度浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，IPLC 专线优化游戏与原生解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，支持企业定制路由与专属服务。",
+          "AI_FEATURE_TITLE_1": "入门流量",
+          "AI_FEATURE_TITLE_2": "进阶线路",
+          "AI_FEATURE_TITLE_3": "多设备协作",
+          "AI_GUIDE_INTRO": "按需求选定套餐，再依照客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步订阅流程",
+          "AI_HERO_INTRO": "点亮云(LightUp)提供基础版、旗舰版与团队版三档套餐，覆盖每月 100GB 到 1000GB 流量与 3 到 20 台设备在线，年付方案更低至 ¥150。旗舰版搭载 IPLC 专线，适合游戏与流媒体场景。",
+          "AI_HERO_SUBTITLE": "点亮云套餐灵活可选",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量",
+          "AI_HIGHLIGHT_2": "IPLC 专线优化游戏延迟",
+          "AI_HIGHLIGHT_3": "年付方案节省更多费用",
+          "AI_PLANS_INTRO": "基础版适合单人轻量使用，旗舰版平衡流量与线路，团队版满足多设备高带宽。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量与同时在线设备数，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端适配要求，参考对应配置文档准备订阅。",
+          "AI_STEP_TEXT_3": "在所选客户端中导入订阅信息，按文档完成节点与规则配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "点亮云套餐一目了然",
+          "AI_FAQ_ANSWER_1": "基础版每月 15 元，包含 100GB 流量，支持 3 台设备在线。按年付为 150 元。适合个人日常浏览和轻度流媒体使用，流量需求不大时性价比不错。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持 5 台设备同时在线，每月 300GB 流量，价格 35 元/月，按年付 350 元。包含全节点原生流媒体解锁和 IPLC 专线游戏加速优化，适合有游戏和流媒体需求的用户。",
+          "AI_FAQ_ANSWER_3": "团队版每月 85 元，包含 1000GB 流量，支持 20 台设备同时在线，并提供 VIP 专属高带宽节点和企业定制路由选项，按年付为 850 元。",
+          "AI_FAQ_ANSWER_4": "根据设备类型选择对应客户端，在客户端中导入订阅链接即可完成配置。手机、电脑和路由器各有对应的客户端，具体步骤可参照客户端文档中的说明。",
+          "AI_FAQ_ANSWER_5": "基础版适合 1 至 3 台设备、流量需求不高的个人用户；旗舰版适合同时使用多台设备且有游戏或流媒体需求的用户；团队版适合多人协作或设备数量较多的场景。可以先统计日常在线设备数量再做选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版套餐包含哪些内容？",
+          "AI_FAQ_QUESTION_2": "旗舰版适合什么场景使用？",
+          "AI_FAQ_QUESTION_3": "团队版的价格和流量是多少？",
+          "AI_FAQ_QUESTION_4": "如何配置订阅？",
+          "AI_FAQ_QUESTION_5": "如何选择适合自己的套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "2a5db2c721a336ce1bef11350cbb75a22d0b38cf17882eae54757ecc2c176a5e",
+    "sitemap.xml": "1d216d20083176f1aed16bdfa682542568fb17f539fcfa783a27e5158c2342dd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "64e169050e2a0e43caa5b8cf5c7315c91b26a5aa4d93209c4243e9776caec006"
+}
